@@ -1,0 +1,11 @@
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\bin\Debug\netcoreapp2.2\Students Report Sheet.deps.json
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\bin\Debug\netcoreapp2.2\Students Report Sheet.runtimeconfig.json
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\bin\Debug\netcoreapp2.2\Students Report Sheet.runtimeconfig.dev.json
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\bin\Debug\netcoreapp2.2\Students Report Sheet.dll
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\bin\Debug\netcoreapp2.2\Students Report Sheet.pdb
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\obj\Debug\netcoreapp2.2\Students Report Sheet.csprojAssemblyReference.cache
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\obj\Debug\netcoreapp2.2\Students Report Sheet.csproj.CoreCompileInputs.cache
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\obj\Debug\netcoreapp2.2\Students Report Sheet.AssemblyInfoInputs.cache
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\obj\Debug\netcoreapp2.2\Students Report Sheet.AssemblyInfo.cs
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\obj\Debug\netcoreapp2.2\Students Report Sheet.dll
+C:\Users\taofe\Documents\Personal\INTERNSHIP\Sidmach\Student Report\Students Report Sheet\obj\Debug\netcoreapp2.2\Students Report Sheet.pdb
